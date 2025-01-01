@@ -170,3 +170,17 @@ body {
     }
 }
 
+@media (min-width: 768px) and (max-width: 1024px) {
+    #container-top {
+        margin: 0;
+    }
+    .top__images{
+        margin: 40px 0px;
+    }
+    .bottom__content{
+        padding-top: 34px;
+    }
+    .bottom__title--secondary{
+        margin-top: 0px;
+    }
+}
